@@ -1,6 +1,6 @@
 https://gazebosim.org/docs/all/moving_robot/    
 The Result is here --->  https://youtu.be/xWeyVZBO6YU  
-click p to stop it  
+Click p to stop it  
 In this tutorial :  
 * What is a plugin  
 --- Diff_drive plugin   
